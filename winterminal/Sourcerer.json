@@ -1,6 +1,7 @@
 {
    "_comment":
-         "
+         '''
+
            ██████  ██████  ██   ██ ██████  █████   █████  ██████  █████  ██████
           ██░░░░  ██░░░░██░██  ░██░░██░░████░░░██ ██░░░██░░██░░████░░░██░░██░░██
          ░░█████ ░██   ░██░██  ░██ ░██ ░░░██  ░░ ░███████ ░██ ░░░███████ ░██ ░░
@@ -12,7 +13,8 @@
          sourcerer by xero harrison (http://sourcerer.xero.nu)
           ├─ based on sorcerer by Jeet Sukumaran (http://jeetworks.org)
           └─ based on mustang by Henrique C. Alves (hcarvalhoalves@gmail.com)
-         "
+
+         '''
 },
             
 {
